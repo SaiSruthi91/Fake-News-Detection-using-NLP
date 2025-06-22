@@ -1,0 +1,7 @@
+Flask==2.3.2
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+nltk==3.8.1
+imbalanced-learn==0.10.1
+joblib==1.2.0
