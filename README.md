@@ -110,7 +110,7 @@ df = pd.read_csv("data/fake_news_dataset.csv")
 | Input News Text 2                      | 
 | 5G Towers Are Spreading COVID-19       | 
 | Prediction Output 2                    |
----![WhatsApp Image 2025-07-01 at 19 33 42_972e0d49](https://github.com/user-attachments/assets/76c48934-1ac6-4ad2-ad88-0f586decbc0f)
+![WhatsApp Image 2025-07-01 at 19 33 42_972e0d49](https://github.com/user-attachments/assets/76c48934-1ac6-4ad2-ad88-0f586decbc0f)|
 | -------------------------------------- |
 
 ## 🔍 Features
