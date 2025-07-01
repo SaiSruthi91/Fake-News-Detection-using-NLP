@@ -190,9 +190,3 @@ This script will:
 🔗 [LinkedIn](https://www.linkedin.com/in/saisruthi-karnatakapu/)
 
 ---
-
-## 🏷️ Tags
-
-**Fake News Detection | NLP | Flask App | TF-IDF | Machine Learning | Text Classification**
-
-```
