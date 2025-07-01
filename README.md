@@ -187,7 +187,7 @@ This script will:
 
 **Sai Sruthi Karnatakapu**
 📧 [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/saisruthi-karnatakapu)
+🔗 [LinkedIn](https://www.linkedin.com/in/saisruthi-karnatakapu/)
 
 ---
 
